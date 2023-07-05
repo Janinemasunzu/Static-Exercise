@@ -6,7 +6,7 @@
         {
           var celsius =  TempConverter.FahrenheitToCelsius(86);
 
-           var fahrenheit = TempConverter.CelsiusToFahrenheit(20);
+           var fahrenheit = TempConverter.CelsiusToFahrenheit(30);
 
             Console.WriteLine($"celsius {celsius}");
             Console.WriteLine();
